@@ -1,0 +1,16 @@
+NO ./textures/wolf3d_landscape.xpm
+SO ./textures/wolf3d_landscape.xpm
+WE ./textures/wolf3d_landscape.xpm
+EA ./textures/wolf3d_landscape.xpm
+
+F 124,255,89a
+C 168,255,256
+
+1111111111111111
+1000000000000001
+1000000000000001
+1000000N00000001
+1000000000000001
+1000000000000001
+1000000000000001
+1111111111111111

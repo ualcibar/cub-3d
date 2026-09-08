@@ -1,0 +1,14 @@
+NO ./textures/textura_pared.xpm
+
+F 0,148,99
+C 136,219,191
+
+SO    ./textures/textura_pared.xpm
+WE       ./textures/textura_pared.xpm
+EA          ./textures/textura_pared.xpm
+
+11111
+10001  
+10W01
+10001  
+11111
